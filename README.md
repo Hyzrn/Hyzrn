@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Senior Software Developer  
   
 
-- 🌱 I’m currently learning Node.js, Next.js, Swift UI  
+- 🌱 I’m currently learning Node.js, Express.js, Next.js, Swift UI  
   
 
 <br/>  
